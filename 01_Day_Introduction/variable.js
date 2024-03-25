@@ -15,3 +15,21 @@ const PI = 3.14 // geometrical constant
 let name = 'Asabeneh', //name of a person
   job = 'teacher',
   live = 'Finland'
+
+// four variables withour assigning
+let var1
+let var2
+let var3
+let var4
+
+// four variables wiht assigning
+let var11 = 1
+let var12 = 2
+let var13 = 3
+let var14 = 4
+
+let myAge = 50,
+  youtAge = 30
+
+console.log('I amd ', myAge, ' years old')
+console.log('You are ', youtAge, ' years old')
